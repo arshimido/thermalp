@@ -1,5 +1,4 @@
 # thermalp
-======
 Simple Ruby API for thermal barcode printers through network, it DOESN'T support USB connected printers.Provides simple and basic printer configurations and printing options.
 
 
