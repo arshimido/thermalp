@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Mohamed Kamal"]
   s.email       = 'arshimido@hotmail.com'
   s.files       = ["lib/Printer.rb"]
-  s.homepage    =
-    'http://rubygems.org/gems/hola'
-  s.license       = 'MIT'
+  s.homepage    = 'https://github.com/mohamed-kamal/thermalp'
+  s.license     = 'MIT'
 end
